@@ -19,6 +19,9 @@ Return
 $!a::
 	SendInput {Ctrl Down}{a}{Ctrl Up}
 Return
+$!z::
+	SendInput {Ctrl Down}{z}{Ctrl Up}
+Return
 
 
 
