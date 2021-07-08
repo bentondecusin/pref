@@ -1,30 +1,30 @@
 $!c::
 	SendInput {Ctrl Down}{c}{Ctrl Up}
-Return
+Enter
 $!v::
 	SendInput {Ctrl Down}{v}{Ctrl Up}
-Return
+Enter
 $!x::
 	SendInput {Ctrl Down}{x}{Ctrl Up}
-Return
+Enter
 $!q::
 	SendInput {Ctrl Down}{q}{Ctrl Up}
-Return
+Enter
 $!s::
 	SendInput {Ctrl Down}{s}{Ctrl Up}
-Return
+Enter
 $!f::
 	SendInput {Ctrl Down}{f}{Ctrl Up}
-Return
+Enter
 $!a::
 	SendInput {Ctrl Down}{a}{Ctrl Up}
-Return
+Enter
 $!z::
 	SendInput {Ctrl Down}{z}{Ctrl Up}
-Return
+Enter
 $!Space::
 	SendInput {LWin Down }{LWin Up}
-Return
+Enter
 
 
 
