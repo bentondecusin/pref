@@ -22,6 +22,9 @@ Return
 $!z::
 	SendInput {Ctrl Down}{z}{Ctrl Up}
 Return
+$!Space::
+	SendInput {LWin Down }{LWin Up}
+Return
 
 
 
